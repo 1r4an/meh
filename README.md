@@ -9,7 +9,7 @@ if getgenv().Aiming then return getgenv().Aiming end
 -- // Silent Aim Vars getgenv().Aiming = { Enabled = true,
 
 ShowFOV = true,
-FOV = 25,
+FOV = 30,
 FOVSides = 12,
 FOVColour = Color3fromRGB(231, 84, 128),
 
